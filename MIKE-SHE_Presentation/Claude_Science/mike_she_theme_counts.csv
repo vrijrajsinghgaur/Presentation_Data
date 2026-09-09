@@ -1,0 +1,41 @@
+theme,n_papers,pct_of_corpus,n_2018_2026,pct_published_2018plus
+Model coupling & integrated modelling frameworks,304,39.5,150,49.3
+"Model calibration, autocalibration & parameter estimation",292,38.0,124,42.5
+Streamflow / rainfall-runoff simulation,206,26.8,102,49.5
+Groundwater recharge & aquifer/water-table dynamics,201,26.1,92,45.8
+Climate change impact assessment,185,24.1,104,56.2
+Evapotranspiration & land–atmosphere coupling,182,23.7,87,47.8
+"Uncertainty, sensitivity & equifinality analysis",157,20.4,56,35.7
+Flood modelling & inundation mapping,146,19.0,78,53.4
+Data assimilation & remote sensing integration,92,12.0,46,50.0
+Wetland & peatland hydrology,90,11.7,38,42.2
+Land-use / land-cover change impacts,87,11.3,54,62.1
+Irrigation & agricultural water management,80,10.4,36,45.0
+Soil moisture & unsaturated zone,80,10.4,39,48.8
+Drought & low-flow analysis,69,9.0,38,55.1
+"Scale, discretisation & model structure effects",68,8.8,28,41.2
+Flood forecasting / real-time & early warning,66,8.6,35,53.0
+"Decision support, policy & IWRM",61,7.9,36,59.0
+Nature-based solutions / restoration & rewetting,60,7.8,26,43.3
+Model comparison / benchmarking / intercomparison,60,7.8,27,45.0
+Forest & vegetation management hydrology,57,7.4,30,52.6
+Water supply / abstraction & pumping impacts,54,7.0,26,48.1
+"Reservoir, dam & hydropower operation",54,7.0,35,64.8
+Ecohydrology / riparian & habitat,50,6.5,23,46.0
+Nutrient (N/P) transport & water quality,49,6.4,28,57.1
+"Urban hydrology, stormwater & LID/SUDS",44,5.7,23,52.3
+Agricultural drainage & tile drains,42,5.5,28,66.7
+Pesticide / contaminant / solute transport,39,5.1,16,41.0
+Groundwater–surface water interaction,35,4.6,19,54.3
+"Snow, glacier & permafrost hydrology",34,4.4,14,41.2
+Sediment & erosion modelling,33,4.3,21,63.6
+Isotope & tracer hydrology / travel time,30,3.9,22,73.3
+Machine learning / surrogate & hybrid modelling,27,3.5,23,85.2
+"Carbon, greenhouse gas & biogeochemistry linkage",26,3.4,15,57.7
+"Mining, dewatering & construction dewatering",21,2.7,10,47.6
+Salinity & seawater intrusion,13,1.7,5,38.5
+Sea-level rise & coastal groundwater,9,1.2,4,44.4
+High-performance / parallel computing & efficiency,8,1.0,6,75.0
+Karst & fractured-rock hydrology,6,0.8,1,16.7
+Health / vector & waterborne disease linkage,4,0.5,2,50.0
+Sustainability of groundwater-dependent ecosystems,4,0.5,1,25.0
